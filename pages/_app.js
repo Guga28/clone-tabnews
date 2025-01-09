@@ -1,7 +1,7 @@
-import '../style/cartadeamor.css';
+import "../style/cartadeamor.css";
 
 function MyApp({ Component, pageProps }) {
-    return <Component {...pageProps} />;
+  return <Component {...pageProps} />;
 }
 
 export default MyApp;
